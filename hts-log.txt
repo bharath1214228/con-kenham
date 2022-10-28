@@ -1,0 +1,57 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 27 Oct 2022 16:37:02 at https://kenhambuilding.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://kenhambuilding.com/ -O1 "C:\Users\dell\Desktop\barath\con9" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:39:07	Error: 	"Not Found" (404) at link https://kenhambuilding.com/about-contact/careers (from https://kenhambuilding.com/)
+16:39:15	Warning: 	Retry after error -4 (No data (connection closed)) at link https://kenhambuilding.com/assets/js/three.min.js (from https://kenhambuilding.com/)
+16:39:15	Warning: 	Retry after error -4 (No data (connection closed)) at link https://kenhambuilding.com/assets/js/app.js?v=2 (from https://kenhambuilding.com/)
+16:39:15	Error: 	"Not Found" (404) at link https://kenhambuilding.com/assets/css/images/layers.png (from https://kenhambuilding.com/assets/css/app.css?v=1)
+16:39:15	Error: 	"Not Found" (404) at link https://kenhambuilding.com/assets/css/images/layers-2x.png (from https://kenhambuilding.com/assets/css/app.css?v=1)
+16:39:15	Error: 	"Not Found" (404) at link https://kenhambuilding.com/assets/css/images/marker-icon.png (from https://kenhambuilding.com/assets/css/app.css?v=1)
+16:39:15	Error: 	"Not Found" (404) at link https://kenhambuilding.com/assets/images/arrow-up-blue.svg (from https://kenhambuilding.com/assets/css/app.css?v=1)
+16:39:15	Error: 	"Not Found" (404) at link https://kenhambuilding.com/assets/images/arrow-down-blue.svg (from https://kenhambuilding.com/assets/css/app.css?v=1)
+16:39:25	Warning: 	Retry after error -4 (No data (connection closed)) at link https://kenhambuilding.com/uploads/images/7-wellington-bed-bath.jpg (from https://kenhambuilding.com/what-we-do/residential)
+16:40:41	Warning: 	Retry after error -4 (No data (connection closed)) at link https://kenhambuilding.com/see-our-work/project-1 (from https://kenhambuilding.com/see-our-work)
+16:40:41	Warning: 	Retry after error -4 (No data (connection closed)) at link https://kenhambuilding.com/uploads/images/poolportrait3000.jpg (from https://kenhambuilding.com/see-our-work)
+16:40:58	Warning: 	Retry after error -4 (No data (connection closed)) at link https://kenhambuilding.com/be-inspired/thought-pieces/ (from https://kenhambuilding.com/be-inspired/thought-pieces)
+16:41:00	Error: 	Exit requested by shell or user
+16:41:00	Warning: 	File not added due to mirror cancel: https://kenhambuilding.com/property-refurbishment-companies-london?p=property-renovation-london
+16:41:01	Warning: 	Retry after error -4 (No data (connection closed)) at link https://kenhambuilding.com/assets/js/three.min.js (from https://kenhambuilding.com/)
+16:41:01	Warning: 	Retry after error -4 (No data (connection closed)) at link https://kenhambuilding.com/assets/js/app.js?v=2 (from https://kenhambuilding.com/)
+16:41:01	Warning: 	Retry after error -4 (No data (connection closed)) at link https://kenhambuilding.com/uploads/images/Copy-of-X_Why-Chiswick-open-day-Final-7147.jpg (from https://kenhambuilding.com/see-our-work/chiswick-works)
+16:41:01	Warning: 	Retry after error -4 (No data (connection closed)) at link https://kenhambuilding.com/uploads/images/Copy-of-X_Why-Chiswick-open-day-Final-7033.jpg (from https://kenhambuilding.com/see-our-work/chiswick-works)
+16:41:01	Warning: 	Retry after error -4 (No data (connection closed)) at link https://kenhambuilding.com/uploads/images/Copy-of-X_Why-Chiswick-open-day-Final-7007.jpg (from https://kenhambuilding.com/see-our-work/chiswick-works)
+16:41:01	Warning: 	Retry after error -4 (No data (connection closed)) at link https://kenhambuilding.com/uploads/images/20200217-LavingtonHouse-259.jpg (from https://kenhambuilding.com/see-our-work/lavington-house-1)
+16:41:01	Warning: 	Retry after error -4 (No data (connection closed)) at link https://kenhambuilding.com/uploads/images/20200217-LavingtonHouse-345.jpg (from https://kenhambuilding.com/see-our-work/lavington-house-1)
+16:41:01	Warning: 	Retry after error -4 (No data (connection closed)) at link https://kenhambuilding.com/uploads/images/Recep-2-Hi-Res.jpg (from https://kenhambuilding.com/see-our-work/post-office-re-development)
+16:41:01	Warning: 	Retry after error -4 (No data (connection closed)) at link https://kenhambuilding.com/uploads/images/7-wellington-bed2.jpg (from https://kenhambuilding.com/see-our-work/stunning-mews-houses-development)
+16:41:01	Warning: 	Retry after error -4 (No data (connection closed)) at link https://kenhambuilding.com/uploads/images/Lonsdalelounge3.jpg (from https://kenhambuilding.com/see-our-work/the-hidden-house)
+16:41:02	Warning: 	File not added due to mirror cancel: https://kenhambuilding.com/property-refurbishment-companies-london?p=property-renovation-london
+16:41:02	Error: 	"mirror stopped by user" (-1) at link https://kenhambuilding.com/property-refurbishment-companies-london?p=property-renovation-london (from https://kenhambuilding.com/blog/popular-areas-for-construction-projects)
+16:41:02	Warning: 	File not added due to mirror cancel: https://kenhambuilding.com/assets/js/three.min.js
+16:41:02	Error: 	"mirror stopped by user" (-1) at link https://kenhambuilding.com/assets/js/three.min.js (from https://kenhambuilding.com/)
+16:41:02	Warning: 	File not added due to mirror cancel: https://kenhambuilding.com/assets/js/app.js?v=2
+16:41:02	Error: 	"mirror stopped by user" (-1) at link https://kenhambuilding.com/assets/js/app.js?v=2 (from https://kenhambuilding.com/)
+16:41:02	Warning: 	File not added due to mirror cancel: https://kenhambuilding.com/uploads/images/Copy-of-X_Why-Chiswick-open-day-Final-7147.jpg
+16:41:02	Error: 	"mirror stopped by user" (-1) at link https://kenhambuilding.com/uploads/images/Copy-of-X_Why-Chiswick-open-day-Final-7147.jpg (from https://kenhambuilding.com/see-our-work/chiswick-works)
+16:41:02	Warning: 	File not added due to mirror cancel: https://kenhambuilding.com/uploads/images/Copy-of-X_Why-Chiswick-open-day-Final-7033.jpg
+16:41:02	Error: 	"mirror stopped by user" (-1) at link https://kenhambuilding.com/uploads/images/Copy-of-X_Why-Chiswick-open-day-Final-7033.jpg (from https://kenhambuilding.com/see-our-work/chiswick-works)
+16:41:02	Warning: 	File not added due to mirror cancel: https://kenhambuilding.com/uploads/images/Copy-of-X_Why-Chiswick-open-day-Final-7007.jpg
+16:41:02	Error: 	"mirror stopped by user" (-1) at link https://kenhambuilding.com/uploads/images/Copy-of-X_Why-Chiswick-open-day-Final-7007.jpg (from https://kenhambuilding.com/see-our-work/chiswick-works)
+16:41:02	Warning: 	File not added due to mirror cancel: https://kenhambuilding.com/uploads/images/20200217-LavingtonHouse-259.jpg
+16:41:02	Error: 	"mirror stopped by user" (-1) at link https://kenhambuilding.com/uploads/images/20200217-LavingtonHouse-259.jpg (from https://kenhambuilding.com/see-our-work/lavington-house-1)
+16:41:02	Warning: 	File not added due to mirror cancel: https://kenhambuilding.com/uploads/images/20200217-LavingtonHouse-345.jpg
+16:41:02	Error: 	"mirror stopped by user" (-1) at link https://kenhambuilding.com/uploads/images/20200217-LavingtonHouse-345.jpg (from https://kenhambuilding.com/see-our-work/lavington-house-1)
+16:41:02	Warning: 	File not added due to mirror cancel: https://kenhambuilding.com/uploads/images/Recep-2-Hi-Res.jpg
+16:41:02	Error: 	"mirror stopped by user" (-1) at link https://kenhambuilding.com/uploads/images/Recep-2-Hi-Res.jpg (from https://kenhambuilding.com/see-our-work/post-office-re-development)
+16:41:02	Warning: 	File not added due to mirror cancel: https://kenhambuilding.com/uploads/images/7-wellington-bed2.jpg
+16:41:02	Error: 	"mirror stopped by user" (-1) at link https://kenhambuilding.com/uploads/images/7-wellington-bed2.jpg (from https://kenhambuilding.com/see-our-work/stunning-mews-houses-development)
+16:41:02	Warning: 	File not added due to mirror cancel: https://kenhambuilding.com/uploads/images/Lonsdalelounge3.jpg
+16:41:02	Error: 	"mirror stopped by user" (-1) at link https://kenhambuilding.com/uploads/images/Lonsdalelounge3.jpg (from https://kenhambuilding.com/see-our-work/the-hidden-house)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 59 seconds : 383 links scanned, 349 files written (135115993 bytes overall) [134214547 bytes received at 561567 bytes/sec], 1919472 bytes transferred using HTTP compression in 101 files, ratio 44%, 12.9 requests per connection
+(18 errors, 28 warnings, 0 messages)

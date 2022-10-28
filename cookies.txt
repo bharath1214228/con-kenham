@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+kenhambuilding.com	TRUE	/	FALSE	1999999999	CRAFT_CSRF_TOKEN	5d5c82c0956e426bcc789fe2905c6d0e406407112541318bf02d8a28bf05c848a%3A2%3A%7Bi%3A0%3Bs%3A16%3A%22CRAFT_CSRF_TOKEN%22%3Bi%3A1%3Bs%3A40%3A%22bMnck0JwbaBZSQHlhjwTy3gcQ2NhFFcDOrC-ltpZ%22%3B%7D
+
